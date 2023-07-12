@@ -20,11 +20,25 @@
   Ini adalah jendela yang terbuka lebar ke dalam dunia budaya Indonesia yang mendalam.
 </p>
 
-**Requirements for instalation**
+**Requirements for run the program**
 <ul>
   <li>Android Studio Flamingo</li>
-  <li></li>
 </ul>
+
+**Tech Stack**
+<ul>
+  <li>Single Activity Pattern</li>
+  <li>MVVM Architecture</li>
+  <li>LiveData</li>
+  <li>DataStore</li>
+  <li>Navigation Component</li>
+  <li>Dagger Hilt (in development)</li>
+</ul>
+
+**Application Preview**
+
+
+
 Aplikasi Mobile Aksara merupakan sebuah aplikasi yang  
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
