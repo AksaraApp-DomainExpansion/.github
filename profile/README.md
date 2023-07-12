@@ -35,7 +35,7 @@
    ```
 3. Run the apps
 
-    - You can run purrfectaid application both on an emulator and on-device
+    - You can run Aksara application both on an emulator and on-device
     - (Optional) Clean and rebuild project to make the application is ready
     - Being able to run the apps and sign-in means the whole setup is works
 
