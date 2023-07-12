@@ -50,6 +50,8 @@
   <li>Login Register User</li>
 </ul>
 
+</br>
+
 **Tech Stack**
 <ul>
   <li>Single Activity Pattern</li>
