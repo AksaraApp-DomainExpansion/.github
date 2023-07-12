@@ -1,5 +1,3 @@
-## Hi there 👋
-
 
 <p align="center">
 
@@ -20,10 +18,28 @@
   Ini adalah jendela yang terbuka lebar ke dalam dunia budaya Indonesia yang mendalam.
 </p>
 
-**Requirements for run the program**
+</br>
+
+**Minimum Requirement**
 <ul>
-  <li>Android Studio Flamingo</li>
+  <li>Android Nougat or latest</li>
+  <li>Internet Connection</li>
 </ul>
+
+</br>
+
+**Instalation Process**
+1. Clone the repository
+```sh
+   git clone https://github.com/AksaraApp-DomainExpansion/AksaraApp.git
+   ```
+3. Run the apps
+
+    - You can run purrfectaid application both on an emulator and on-device
+    - (Optional) Clean and rebuild project to make the application is ready
+    - Being able to run the apps and sign-in means the whole setup is works
+
+</br>
 
 **Tech Stack**
 <ul>
@@ -35,13 +51,17 @@
   <li>Dagger Hilt (in development)</li>
 </ul>
 
+</br>
+
 **Application Preview**
 
+<p align="center">
+  <img src="https://github.com/AksaraApp-DomainExpansion/.github/assets/87352987/77f70923-d339-4e78-b2a3-7b053bb2a5a9" width="300" height="650" alt="nearest_vet"></img>&nbsp; &nbsp;<img src="https://github.com/AksaraApp-DomainExpansion/.github/assets/87352987/2665bb83-adf1-4936-8e72-67fd0dfa21a9" width="300" height="650" alt="scan_vet">&nbsp; &nbsp;<img src="https://github.com/AksaraApp-DomainExpansion/.github/assets/87352987/61e398a3-abfe-40dc-96f4-3a5de3efdbbc" width="300" height="650" alt="scanning">
+</p>
 
+</br>
 
-Aplikasi Mobile Aksara merupakan sebuah aplikasi yang  
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Contribution**
+<p>Any contribution will be honored as the project still in development. </p>
+Feel free to contact me at: samuelsibuea82@gmail.com
+
