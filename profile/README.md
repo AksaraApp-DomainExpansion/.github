@@ -33,13 +33,22 @@
 ```sh
    git clone https://github.com/AksaraApp-DomainExpansion/AksaraApp.git
    ```
-3. Run the apps
+2. Run the apps
 
     - You can run Aksara application both on an emulator and on-device
     - (Optional) Clean and rebuild project to make the application is ready
     - Being able to run the apps and sign-in means the whole setup is works
 
 </br>
+
+**Features**
+<ul>
+  <li>Free and Premium Courses</li>
+  <li>Personalization</li>
+  <li>Aksara Translation</li>
+  <li>Cart feature for course payment</li>
+  <li>Login Register User</li>
+</ul>
 
 **Tech Stack**
 <ul>
@@ -56,7 +65,7 @@
 **Application Preview**
 
 <p align="center">
-  <img src="https://github.com/AksaraApp-DomainExpansion/.github/assets/87352987/77f70923-d339-4e78-b2a3-7b053bb2a5a9" width="300" height="650" alt="nearest_vet"></img>&nbsp; &nbsp;<img src="https://github.com/AksaraApp-DomainExpansion/.github/assets/87352987/2665bb83-adf1-4936-8e72-67fd0dfa21a9" width="300" height="650" alt="scan_vet">&nbsp; &nbsp;<img src="https://github.com/AksaraApp-DomainExpansion/.github/assets/87352987/61e398a3-abfe-40dc-96f4-3a5de3efdbbc" width="300" height="650" alt="scanning">
+  <img src="https://github.com/AksaraApp-DomainExpansion/.github/assets/87352987/77f70923-d339-4e78-b2a3-7b053bb2a5a9" width="300" height="650" alt="nearest_vet"></img>&nbsp; &nbsp;<img src="https://github.com/AksaraApp-DomainExpansion/.github/assets/87352987/2665bb83-adf1-4936-8e72-67fd0dfa21a9" width="300" height="650" alt="scan_vet">&nbsp; &nbsp;<img src="https://github.com/AksaraApp-DomainExpansion/.github/assets/87352987/61e398a3-abfe-40dc-96f4-3a5de3efdbbc" width="300" height="650" alt="scanning">&nbsp; &nbsp;<img src="https://github.com/AksaraApp-DomainExpansion/.github/assets/87352987/24f94d26-c588-4cca-9ede-c906b1671341" width="300" height="650" alt="scanning">&nbsp; &nbsp;<img src="https://github.com/AksaraApp-DomainExpansion/.github/assets/87352987/17721729-bf43-4284-b89d-f00d4cd3f7cb" width="300" height="650" alt="scanning">&nbsp; &nbsp;<img src="https://github.com/AksaraApp-DomainExpansion/.github/assets/87352987/1f279585-7b84-4617-8840-d699c061e13b" width="300" height="650" alt="scanning">
 </p>
 
 </br>
